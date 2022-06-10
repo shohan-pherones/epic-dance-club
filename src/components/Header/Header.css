@@ -1,0 +1,30 @@
+.header h1 {
+  font-size: 3rem;
+  letter-spacing: 3px;
+  text-transform: uppercase;
+  color: darkturquoise;
+  margin: 25px 0;
+  cursor: pointer;
+  transition: all 0.15s linear;
+}
+
+.header h1:hover {
+  letter-spacing: 5px;
+}
+
+.menus {
+  background-color: darkturquoise;
+}
+.menus ul a {
+  text-decoration: none;
+  font-size: 1.5rem;
+  padding: 5px 15px;
+  display: inline-block;
+  color: white;
+  transition: all 0.15s linear;
+}
+
+.menus ul a:hover {
+  background-color: black;
+  color: darkturquoise;
+}
