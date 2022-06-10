@@ -5,11 +5,6 @@
   color: darkturquoise;
   margin: 25px 0;
   cursor: pointer;
-  transition: all 0.15s linear;
-}
-
-.header h1:hover {
-  letter-spacing: 5px;
 }
 
 .menus {
