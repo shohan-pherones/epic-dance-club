@@ -18,7 +18,9 @@ const Dancer = (props) => {
         <p>
           Fees: <span className="fees">${fees}</span>
         </p>
-        <button>Pick Her</button>
+        <button onClick={() => props.handlePicking(props.dancer)}>
+          Pick Her
+        </button>
       </div>
     </div>
   );
