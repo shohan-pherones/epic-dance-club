@@ -1,0 +1,83 @@
+[
+  {
+    "id": 1,
+    "name": "Shakira",
+    "nationality": "Colombian",
+    "age": 45,
+    "bodyMeasurements": "34-24-37",
+    "fees": 5000,
+    "image": "https://media1.popsugar-assets.com/files/thumbor/py30tpQC6c3PZkZVlaY2Tyg2pBU/fit-in/2048xorig/filters:format_auto-!!-:strip_icc-!!-/2014/12/02/001/n/1922398/a8cffe535eb2e669_82077850_10/i/Hot-Shakira-Pictures.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Beyoncé",
+    "nationality": "American",
+    "age": 40,
+    "bodyMeasurements": "35-26-39",
+    "fees": 4800,
+    "image": "https://drop.ndtv.com/albums/ENTERTAINMENT/Beyonce-Knowles-sexy/1.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Aaliyah",
+    "nationality": "American",
+    "age": 22,
+    "bodyMeasurements": "34-24-34",
+    "fees": 2800,
+    "image": "https://geeksoncoffee.com/wp-content/uploads/2019/12/aaliyah-looking-sexy-1.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Jenna Dewan",
+    "nationality": "American",
+    "age": 41,
+    "bodyMeasurements": "32-25-33",
+    "fees": 3800,
+    "image": "https://yt3.ggpht.com/ytc/AKedOLQRHbZuUvs0QkPowPuG_ofgWmlVrlUeX83VLMKR=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+    "id": 5,
+    "name": "Sofia Boutella",
+    "nationality": "Algerian",
+    "age": 40,
+    "bodyMeasurements": "34-24-34",
+    "fees": 4200,
+    "image": "https://i.pinimg.com/550x/88/44/00/884400c5e483f83b2f118629c4d560fb.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Nicole Scherzinger",
+    "nationality": "American",
+    "age": 43,
+    "bodyMeasurements": "36-23-37",
+    "fees": 4600,
+    "image": "https://4.bp.blogspot.com/-yMXH8Zuhris/T2vCUVRBd6I/AAAAAAAACmA/unFuWXlk3xc/s1600/Nicole+Scherzinger+GQ+india+sexy+boobs+cleavage+2012.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Lady Gaga",
+    "nationality": "American",
+    "age": 36,
+    "bodyMeasurements": "36-26-37",
+    "fees": 6600,
+    "image": "https://www.gala.fr/imgre/fit/http.3A.2F.2Fprd2-bone-image.2Es3-website-eu-west-1.2Eamazonaws.2Ecom.2Fgal.2Fvar.2Fgal.2Fstorage.2Fimages.2Fmedia.2Fmultiupload_du_14_aout_2013.2Fgaga-v-seins.2F2239468-1-fre-FR.2Fgaga-v-seins.2Ejpg/420x420/quality/80/lady-gaga-sexy-et-libre-dans-la-suie.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Chloe Lukasiak",
+    "nationality": "American",
+    "age": 21,
+    "bodyMeasurements": "34-26-40",
+    "fees": 3100,
+    "image": "https://biographymask.com/wp-content/uploads/2020/05/Chloe_appearance.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Nora Fatehi",
+    "nationality": "Canadian",
+    "age": 30,
+    "bodyMeasurements": " 34-26-34",
+    "fees": 4500,
+    "image": "https://images.news18.com/ibnlive/uploads/2021/09/nora-fatehi-1-5.jpg?impolicy=website&width=0&height=0"
+  }
+]
